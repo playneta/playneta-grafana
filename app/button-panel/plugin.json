@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Button",
+  "id": "playneta-button-panel",
+
+  "info": {
+    "description": "Press the button to set an annotation",
+    "author": {
+      "name": "Playneta"
+    },
+    "keywords": ["button", "panel"],
+    "version": "1.0.0",
+    "updated": "2017-01-15"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
+

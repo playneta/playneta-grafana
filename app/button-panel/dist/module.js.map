@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["ButtonClass"],"mappings":";;;;;;;;AAAQA,c,kBAAAA,W;;;wBAGPA,W","file":"module.js","sourcesContent":["import {ButtonClass} from './button_plugin'; \n\nexport {\n\tButtonClass as PanelCtrl\n};\n"]}
